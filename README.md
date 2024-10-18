@@ -28,7 +28,7 @@ The system performs speech recognition, converts the recognized words into text,
 The user is shown sign language representations of the spoken or typed words in real-time.
 
 
-Below is the blockdiagram to explain :
+Below is the simple architecture :
 
 ![08AF3E7E-1C8C-4452-B01D-4C8238098D60_1_201_a](https://github.com/user-attachments/assets/142cde3c-7825-4a2e-b87c-d1c687363c32)
 
