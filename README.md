@@ -26,6 +26,7 @@ Users access the web interface via a browser.
 They can either speak into their microphone or type the sentence they wish to translate.
 The system performs speech recognition, converts the recognized words into text, and then translates them into corresponding sign language videos.
 The user is shown sign language representations of the spoken or typed words in real-time.
+ Dataset link : https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed
 
 
 Below is the simple architecture :
